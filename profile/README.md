@@ -1,4 +1,4 @@
-![Header](img/header.png)
+[![Header](https://i.griefed.de/images/2021/09/16/SUK-IT-Data-Center.png)](https://suk-it.at)
 
 # Welcome to SUK-IT!
 
